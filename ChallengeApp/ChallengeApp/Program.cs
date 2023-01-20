@@ -1,5 +1,4 @@
-﻿var name = "Ewa";
-var name1 = "Rafał";
+﻿
 bool Ewa = true;
 char płeć1 = 'K';
 char płeć2 = 'M';
