@@ -20,16 +20,22 @@ else
 if (Ewa)
 {
     Console.WriteLine();
-    Console.WriteLine("Niepełnoletni Mężczyzna");
+    Console.WriteLine("Ewa lat 33");
+    
 }
 else
 {
-    Console.WriteLine("Ewa lat 33");
+    Console.WriteLine("Rafał lat 39");
 }
 if (płeć1 != płeć2)
 {
     Console.WriteLine();
-    Console.WriteLine("Ewa lat 33");
+    Console.WriteLine("Niepełnoletni Mężczyzna");
+}
+else
+{
+    Console.WriteLine();
+    Console.WriteLine("Bliżej nie określona osoba");
 }
 
 Console.ForegroundColor = ConsoleColor.Black;
